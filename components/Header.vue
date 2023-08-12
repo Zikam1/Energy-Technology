@@ -1,4 +1,5 @@
 <template>
+	<div class="sticky top-0 bg-white w-full z-30">
 	<header
 		class="mx-lg wfull flex items-center justify-between h-fit py-4 w-full  px-5 border border-b border-black "
 	>

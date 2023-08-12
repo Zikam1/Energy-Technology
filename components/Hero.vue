@@ -2,7 +2,7 @@
     <section class="relative">
         <div class="py-24 md:py-40 xl:py-32 2xl:py-44 3xl:py-52">
           <div class="container swiper_slide_wrapper">
-            <div class="swiper_slide_content">
+            <div class="absolute swiper_slide_content">
               <h1 class="swiper_slide_h1 w-full md:w-4/5 3xl:w-11/12">
                 CypherCrescent is among the leading providers of digitalisation
                 solutions to enterprises
